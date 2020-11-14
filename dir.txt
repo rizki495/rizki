@@ -1,0 +1,11 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 046D-B544
+
+ Directory of C:\Users\Acer\Latihan\Alicization
+
+14/11/2020  08:02    <DIR>          .
+14/11/2020  08:02    <DIR>          ..
+14/11/2020  08:02                 0 dir.txt
+14/11/2020  07:57                 0 SAO 4.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  59.689.275.392 bytes free
